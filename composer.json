@@ -1,0 +1,12 @@
+{
+    "name": "tenshuu/otus-package-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tenshuu\\OtusPackageTest\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
